@@ -1,0 +1,1829 @@
+{
+  "type": "FeatureCollection",
+  "features": [
+    {
+      "type": "Feature",
+      "properties": {
+        "id": "1",
+        "Tipo": "Decorativo",
+        "Intensit\u00e0 luminosa": 730,
+        "Tecnologia": "LED",
+        "Energia consumata": 26.14,
+        "Stato": "Funzionante",
+        "quartiere_ID": "Navile"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          11.377020783578919,
+          44.52932923379643
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "id": "2",
+        "Tipo": "Decorativo",
+        "Intensit\u00e0 luminosa": 0,
+        "Tecnologia": "Bioluminescenza + LED",
+        "Energia consumata": 0,
+        "Stato": "Guasto",
+        "quartiere_ID": "Navile"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          11.337715643533572,
+          44.53610941023887
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "id": "3",
+        "Tipo": "Stradale",
+        "Intensit\u00e0 luminosa": 588,
+        "Tecnologia": "Bioluminescenza + LED",
+        "Energia consumata": 21.65,
+        "Stato": "Funzionante",
+        "quartiere_ID": "Navile"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          11.34674764082888,
+          44.54993509115357
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "id": "4",
+        "Tipo": "Stradale",
+        "Intensit\u00e0 luminosa": 0,
+        "Tecnologia": "LED",
+        "Energia consumata": 0,
+        "Stato": "Guasto",
+        "quartiere_ID": "Navile"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          11.313658671388808,
+          44.54259434333323
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "id": "5",
+        "Tipo": "Decorativo",
+        "Intensit\u00e0 luminosa": 415,
+        "Tecnologia": "Bioluminescenza",
+        "Energia consumata": 24.72,
+        "Stato": "Funzionante",
+        "quartiere_ID": "Navile"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          11.331021984792796,
+          44.51924674362938
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "id": "6",
+        "Tipo": "Stradale",
+        "Intensit\u00e0 luminosa": 0,
+        "Tecnologia": "LED",
+        "Energia consumata": 0,
+        "Stato": "Guasto",
+        "quartiere_ID": "Navile"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          11.37105492285754,
+          44.52603312186277
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "id": "7",
+        "Tipo": "Stradale",
+        "Intensit\u00e0 luminosa": 0,
+        "Tecnologia": "LED",
+        "Energia consumata": 0,
+        "Stato": "Guasto",
+        "quartiere_ID": "Navile"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          11.333395781946551,
+          44.54297315045499
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "id": "8",
+        "Tipo": "Decorativo",
+        "Intensit\u00e0 luminosa": 0,
+        "Tecnologia": "LED",
+        "Energia consumata": 0,
+        "Stato": "Guasto",
+        "quartiere_ID": "Navile"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          11.330698422038596,
+          44.510177086225134
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "id": "9",
+        "Tipo": "Decorativo",
+        "Intensit\u00e0 luminosa": 202,
+        "Tecnologia": "LED",
+        "Energia consumata": 23,
+        "Stato": "Funzionante",
+        "quartiere_ID": "Navile"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          11.318299394214947,
+          44.51158282339146
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "id": "10",
+        "Tipo": "Stradale",
+        "Intensit\u00e0 luminosa": 0,
+        "Tecnologia": "Bioluminescenza + LED",
+        "Energia consumata": 0,
+        "Stato": "Guasto",
+        "quartiere_ID": "Navile"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          11.358295586778262,
+          44.54785415518112
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "id": "11",
+        "Tipo": "Decorativo",
+        "Intensit\u00e0 luminosa": 328,
+        "Tecnologia": "Bioluminescenza + LED",
+        "Energia consumata": 28.66,
+        "Stato": "Funzionante",
+        "quartiere_ID": "Navile"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          11.350801149607214,
+          44.53675017258107
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "id": "12",
+        "Tipo": "Decorativo",
+        "Intensit\u00e0 luminosa": 149,
+        "Tecnologia": "Bioluminescenza",
+        "Energia consumata": 30.57,
+        "Stato": "Funzionante",
+        "quartiere_ID": "Navile"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          11.37156228816437,
+          44.52451087976201
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "id": "13",
+        "Tipo": "Decorativo",
+        "Intensit\u00e0 luminosa": 114,
+        "Tecnologia": "LED",
+        "Energia consumata": 42.54,
+        "Stato": "Funzionante",
+        "quartiere_ID": "Navile"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          11.351362470269516,
+          44.52235275710442
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "id": "14",
+        "Tipo": "Decorativo",
+        "Intensit\u00e0 luminosa": 178,
+        "Tecnologia": "LED",
+        "Energia consumata": 43.14,
+        "Stato": "Funzionante",
+        "quartiere_ID": "Navile"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          11.342087688788663,
+          44.508961840936166
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "id": "15",
+        "Tipo": "Decorativo",
+        "Intensit\u00e0 luminosa": 614,
+        "Tecnologia": "Bioluminescenza + LED",
+        "Energia consumata": 41.07,
+        "Stato": "Funzionante",
+        "quartiere_ID": "Navile"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          11.34871253186103,
+          44.52866763973558
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "id": "16",
+        "Tipo": "Stradale",
+        "Intensit\u00e0 luminosa": 970,
+        "Tecnologia": "Bioluminescenza + LED",
+        "Energia consumata": 48.39,
+        "Stato": "Funzionante",
+        "quartiere_ID": "Navile"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          11.35779179876923,
+          44.53430077842187
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "id": "17",
+        "Tipo": "Stradale",
+        "Intensit\u00e0 luminosa": 917,
+        "Tecnologia": "Bioluminescenza + LED",
+        "Energia consumata": 25.39,
+        "Stato": "Funzionante",
+        "quartiere_ID": "Borgo Panigale - Reno"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          11.279031784179438,
+          44.51361142733376
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "id": "18",
+        "Tipo": "Stradale",
+        "Intensit\u00e0 luminosa": 614,
+        "Tecnologia": "LED",
+        "Energia consumata": 34.12,
+        "Stato": "Funzionante",
+        "quartiere_ID": "Borgo Panigale - Reno"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          11.26814648284211,
+          44.5038477859872
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "id": "19",
+        "Tipo": "Decorativo",
+        "Intensit\u00e0 luminosa": 630,
+        "Tecnologia": "Bioluminescenza + LED",
+        "Energia consumata": 33.27,
+        "Stato": "Funzionante",
+        "quartiere_ID": "Borgo Panigale - Reno"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          11.290215217189163,
+          44.54043829468181
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "id": "20",
+        "Tipo": "Decorativo",
+        "Intensit\u00e0 luminosa": 533,
+        "Tecnologia": "Bioluminescenza",
+        "Energia consumata": 18.2,
+        "Stato": "Funzionante",
+        "quartiere_ID": "Borgo Panigale - Reno"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          11.273553395957293,
+          44.52665560849443
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "id": "21",
+        "Tipo": "Stradale",
+        "Intensit\u00e0 luminosa": 471,
+        "Tecnologia": "Bioluminescenza + LED",
+        "Energia consumata": 38.5,
+        "Stato": "Funzionante",
+        "quartiere_ID": "Borgo Panigale - Reno"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          11.245496214369693,
+          44.529724311152805
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "id": "22",
+        "Tipo": "Stradale",
+        "Intensit\u00e0 luminosa": 993,
+        "Tecnologia": "Bioluminescenza",
+        "Energia consumata": 27.74,
+        "Stato": "Funzionante",
+        "quartiere_ID": "Borgo Panigale - Reno"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          11.262286646420256,
+          44.50314374647006
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "id": "23",
+        "Tipo": "Decorativo",
+        "Intensit\u00e0 luminosa": 844,
+        "Tecnologia": "Bioluminescenza + LED",
+        "Energia consumata": 21.95,
+        "Stato": "Funzionante",
+        "quartiere_ID": "Borgo Panigale - Reno"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          11.291513089802194,
+          44.51815336252385
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "id": "24",
+        "Tipo": "Decorativo",
+        "Intensit\u00e0 luminosa": 502,
+        "Tecnologia": "LED",
+        "Energia consumata": 40.25,
+        "Stato": "Funzionante",
+        "quartiere_ID": "Borgo Panigale - Reno"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          11.286994115720983,
+          44.49324703059395
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "id": "25",
+        "Tipo": "Decorativo",
+        "Intensit\u00e0 luminosa": 714,
+        "Tecnologia": "Bioluminescenza + LED",
+        "Energia consumata": 46.19,
+        "Stato": "Funzionante",
+        "quartiere_ID": "Borgo Panigale - Reno"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          11.292747233516618,
+          44.49298115012418
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "id": "26",
+        "Tipo": "Decorativo",
+        "Intensit\u00e0 luminosa": 377,
+        "Tecnologia": "Bioluminescenza + LED",
+        "Energia consumata": 13.85,
+        "Stato": "Funzionante",
+        "quartiere_ID": "Borgo Panigale - Reno"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          11.266573726990131,
+          44.49427919132013
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "id": "27",
+        "Tipo": "Stradale",
+        "Intensit\u00e0 luminosa": 0,
+        "Tecnologia": "LED",
+        "Energia consumata": 0,
+        "Stato": "Guasto",
+        "quartiere_ID": "Borgo Panigale - Reno"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          11.278687826614568,
+          44.496257276283195
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "id": "28",
+        "Tipo": "Decorativo",
+        "Intensit\u00e0 luminosa": 134,
+        "Tecnologia": "Bioluminescenza",
+        "Energia consumata": 35.67,
+        "Stato": "Funzionante",
+        "quartiere_ID": "Borgo Panigale - Reno"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          11.278908611612973,
+          44.53982655009336
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "id": "29",
+        "Tipo": "Stradale",
+        "Intensit\u00e0 luminosa": 635,
+        "Tecnologia": "Bioluminescenza + LED",
+        "Energia consumata": 28.97,
+        "Stato": "Funzionante",
+        "quartiere_ID": "Borgo Panigale - Reno"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          11.284838712258008,
+          44.53954531560357
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "id": "30",
+        "Tipo": "Stradale",
+        "Intensit\u00e0 luminosa": 844,
+        "Tecnologia": "LED",
+        "Energia consumata": 19.38,
+        "Stato": "Funzionante",
+        "quartiere_ID": "Borgo Panigale - Reno"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          11.249142230610165,
+          44.52434672314138
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "id": "31",
+        "Tipo": "Stradale",
+        "Intensit\u00e0 luminosa": 464,
+        "Tecnologia": "Bioluminescenza + LED",
+        "Energia consumata": 12.56,
+        "Stato": "Funzionante",
+        "quartiere_ID": "Borgo Panigale - Reno"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          11.267676124212285,
+          44.529806613172966
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "id": "32",
+        "Tipo": "Decorativo",
+        "Intensit\u00e0 luminosa": 0,
+        "Tecnologia": "Bioluminescenza + LED",
+        "Energia consumata": 0,
+        "Stato": "Guasto",
+        "quartiere_ID": "Borgo Panigale - Reno"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          11.260713261241142,
+          44.49798465236763
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "id": "33",
+        "Tipo": "Decorativo",
+        "Intensit\u00e0 luminosa": 460,
+        "Tecnologia": "LED",
+        "Energia consumata": 33.0,
+        "Stato": "Funzionante",
+        "quartiere_ID": "Porto - Saragozza"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          11.295119401668995,
+          44.45858423480776
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "id": "34",
+        "Tipo": "Decorativo",
+        "Intensit\u00e0 luminosa": 959,
+        "Tecnologia": "Bioluminescenza + LED",
+        "Energia consumata": 29.9,
+        "Stato": "Funzionante",
+        "quartiere_ID": "Porto - Saragozza"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          11.311500488481787,
+          44.502128081451254
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "id": "35",
+        "Tipo": "Decorativo",
+        "Intensit\u00e0 luminosa": 671,
+        "Tecnologia": "LED",
+        "Energia consumata": 11.31,
+        "Stato": "Funzionante",
+        "quartiere_ID": "Porto - Saragozza"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          11.301800483536983,
+          44.455336340094476
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "id": "36",
+        "Tipo": "Stradale",
+        "Intensit\u00e0 luminosa": 917,
+        "Tecnologia": "Bioluminescenza",
+        "Energia consumata": 30.31,
+        "Stato": "Funzionante",
+        "quartiere_ID": "Porto - Saragozza"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          11.322443247593322,
+          44.49762073483161
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "id": "37",
+        "Tipo": "Decorativo",
+        "Intensit\u00e0 luminosa": 123,
+        "Tecnologia": "LED",
+        "Energia consumata": 39.41,
+        "Stato": "Funzionante",
+        "quartiere_ID": "Porto - Saragozza"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          11.317957406645558,
+          44.50834652383062
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "id": "38",
+        "Tipo": "Stradale",
+        "Intensit\u00e0 luminosa": 945,
+        "Tecnologia": "LED",
+        "Energia consumata": 17.45,
+        "Stato": "Funzionante",
+        "quartiere_ID": "Porto - Saragozza"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          11.309714650869495,
+          44.485637599180556
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "id": "39",
+        "Tipo": "Decorativo",
+        "Intensit\u00e0 luminosa": 898,
+        "Tecnologia": "LED",
+        "Energia consumata": 42.2,
+        "Stato": "Funzionante",
+        "quartiere_ID": "Porto - Saragozza"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          11.290127441718909,
+          44.448957103677024
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "id": "40",
+        "Tipo": "Decorativo",
+        "Intensit\u00e0 luminosa": 811,
+        "Tecnologia": "LED",
+        "Energia consumata": 37.75,
+        "Stato": "Funzionante",
+        "quartiere_ID": "Porto - Saragozza"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          11.339886365230509,
+          44.505212452336444
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "id": "41",
+        "Tipo": "Decorativo",
+        "Intensit\u00e0 luminosa": 842,
+        "Tecnologia": "Bioluminescenza + LED",
+        "Energia consumata": 11.89,
+        "Stato": "Funzionante",
+        "quartiere_ID": "Porto - Saragozza"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          11.319780531715816,
+          44.48899968002764
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "id": "42",
+        "Tipo": "Stradale",
+        "Intensit\u00e0 luminosa": 723,
+        "Tecnologia": "LED",
+        "Energia consumata": 39.76,
+        "Stato": "Funzionante",
+        "quartiere_ID": "Porto - Saragozza"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          11.30229010371052,
+          44.481673909871986
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "id": "43",
+        "Tipo": "Stradale",
+        "Intensit\u00e0 luminosa": 543,
+        "Tecnologia": "Bioluminescenza + LED",
+        "Energia consumata": 35.04,
+        "Stato": "Funzionante",
+        "quartiere_ID": "Porto - Saragozza"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          11.314549481993051,
+          44.509410391687936
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "id": "44",
+        "Tipo": "Stradale",
+        "Intensit\u00e0 luminosa": 643,
+        "Tecnologia": "Bioluminescenza + LED",
+        "Energia consumata": 23.86,
+        "Stato": "Funzionante",
+        "quartiere_ID": "Porto - Saragozza"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          11.328971186302974,
+          44.506348677440826
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "id": "45",
+        "Tipo": "Decorativo",
+        "Intensit\u00e0 luminosa": 225,
+        "Tecnologia": "Bioluminescenza + LED",
+        "Energia consumata": 15.09,
+        "Stato": "Funzionante",
+        "quartiere_ID": "Porto - Saragozza"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          11.33856766005324,
+          44.48905596032098
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "id": "46",
+        "Tipo": "Stradale",
+        "Intensit\u00e0 luminosa": 479,
+        "Tecnologia": "LED",
+        "Energia consumata": 33.49,
+        "Stato": "Funzionante",
+        "quartiere_ID": "Porto - Saragozza"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          11.303152479548535,
+          44.48613320559321
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "id": "47",
+        "Tipo": "Stradale",
+        "Intensit\u00e0 luminosa": 0,
+        "Tecnologia": "Bioluminescenza + LED",
+        "Energia consumata": 0,
+        "Stato": "Guasto",
+        "quartiere_ID": "Porto - Saragozza"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          11.337097290985847,
+          44.50096581425711
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "id": "48",
+        "Tipo": "Stradale",
+        "Intensit\u00e0 luminosa": 288,
+        "Tecnologia": "Bioluminescenza + LED",
+        "Energia consumata": 23.32,
+        "Stato": "Funzionante",
+        "quartiere_ID": "Porto - Saragozza"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          11.302622009175034,
+          44.48672977363202
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "id": "49",
+        "Tipo": "Stradale",
+        "Intensit\u00e0 luminosa": 220,
+        "Tecnologia": "LED",
+        "Energia consumata": 24.3,
+        "Stato": "Funzionante",
+        "quartiere_ID": "San Donato - San Vitale"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          11.38863813983547,
+          44.499491512731964
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "id": "50",
+        "Tipo": "Decorativo",
+        "Intensit\u00e0 luminosa": 889,
+        "Tecnologia": "Bioluminescenza + LED",
+        "Energia consumata": 10.21,
+        "Stato": "Funzionante",
+        "quartiere_ID": "San Donato - San Vitale"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          11.41067966926699,
+          44.524222452405176
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "id": "51",
+        "Tipo": "Stradale",
+        "Intensit\u00e0 luminosa": 879,
+        "Tecnologia": "Bioluminescenza",
+        "Energia consumata": 24.46,
+        "Stato": "Funzionante",
+        "quartiere_ID": "San Donato - San Vitale"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          11.362167554481575,
+          44.513074000129514
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "id": "52",
+        "Tipo": "Stradale",
+        "Intensit\u00e0 luminosa": 696,
+        "Tecnologia": "Bioluminescenza + LED",
+        "Energia consumata": 25.6,
+        "Stato": "Funzionante",
+        "quartiere_ID": "San Donato - San Vitale"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          11.394763492966755,
+          44.49168974440676
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "id": "53",
+        "Tipo": "Stradale",
+        "Intensit\u00e0 luminosa": 662,
+        "Tecnologia": "Bioluminescenza + LED",
+        "Energia consumata": 25.9,
+        "Stato": "Funzionante",
+        "quartiere_ID": "San Donato - San Vitale"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          11.389973633539107,
+          44.50888139100085
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "id": "54",
+        "Tipo": "Decorativo",
+        "Intensit\u00e0 luminosa": 767,
+        "Tecnologia": "LED",
+        "Energia consumata": 40.33,
+        "Stato": "Funzionante",
+        "quartiere_ID": "San Donato - San Vitale"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          11.402267782791242,
+          44.499975692529986
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "id": "55",
+        "Tipo": "Decorativo",
+        "Intensit\u00e0 luminosa": 899,
+        "Tecnologia": "Bioluminescenza + LED",
+        "Energia consumata": 24.35,
+        "Stato": "Funzionante",
+        "quartiere_ID": "San Donato - San Vitale"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          11.36456798456529,
+          44.49718042358748
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "id": "56",
+        "Tipo": "Decorativo",
+        "Intensit\u00e0 luminosa": 670,
+        "Tecnologia": "Bioluminescenza + LED",
+        "Energia consumata": 42.45,
+        "Stato": "Funzionante",
+        "quartiere_ID": "San Donato - San Vitale"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          11.40505806349212,
+          44.51081472667183
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "id": "57",
+        "Tipo": "Stradale",
+        "Intensit\u00e0 luminosa": 268,
+        "Tecnologia": "LED",
+        "Energia consumata": 12.64,
+        "Stato": "Funzionante",
+        "quartiere_ID": "San Donato - San Vitale"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          11.35783736976165,
+          44.49520346705191
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "id": "58",
+        "Tipo": "Stradale",
+        "Intensit\u00e0 luminosa": 119,
+        "Tecnologia": "Bioluminescenza + LED",
+        "Energia consumata": 29.29,
+        "Stato": "Funzionante",
+        "quartiere_ID": "San Donato - San Vitale"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          11.390710573680014,
+          44.50996466112447
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "id": "59",
+        "Tipo": "Decorativo",
+        "Intensit\u00e0 luminosa": 0,
+        "Tecnologia": "LED",
+        "Energia consumata": 0,
+        "Stato": "Guasto",
+        "quartiere_ID": "San Donato - San Vitale"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          11.39821781083386,
+          44.494157038391556
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "id": "60",
+        "Tipo": "Decorativo",
+        "Intensit\u00e0 luminosa": 846,
+        "Tecnologia": "Bioluminescenza + LED",
+        "Energia consumata": 36.99,
+        "Stato": "Funzionante",
+        "quartiere_ID": "San Donato - San Vitale"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          11.357887265162715,
+          44.495974587330466
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "id": "61",
+        "Tipo": "Stradale",
+        "Intensit\u00e0 luminosa": 814,
+        "Tecnologia": "LED",
+        "Energia consumata": 10.04,
+        "Stato": "Funzionante",
+        "quartiere_ID": "San Donato - San Vitale"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          11.395540821769405,
+          44.496871601982285
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "id": "62",
+        "Tipo": "Stradale",
+        "Intensit\u00e0 luminosa": 691,
+        "Tecnologia": "Bioluminescenza",
+        "Energia consumata": 46.48,
+        "Stato": "Funzionante",
+        "quartiere_ID": "San Donato - San Vitale"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          11.381842818568153,
+          44.50880979555624
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "id": "63",
+        "Tipo": "Decorativo",
+        "Intensit\u00e0 luminosa": 935,
+        "Tecnologia": "Bioluminescenza + LED",
+        "Energia consumata": 41.46,
+        "Stato": "Funzionante",
+        "quartiere_ID": "San Donato - San Vitale"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          11.4083696045018,
+          44.4822556691098
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "id": "64",
+        "Tipo": "Decorativo",
+        "Intensit\u00e0 luminosa": 310,
+        "Tecnologia": "Bioluminescenza + LED",
+        "Energia consumata": 10.48,
+        "Stato": "Funzionante",
+        "quartiere_ID": "San Donato - San Vitale"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          11.374623991369505,
+          44.52097083127778
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "id": "65",
+        "Tipo": "Decorativo",
+        "Intensit\u00e0 luminosa": 667,
+        "Tecnologia": "Bioluminescenza + LED",
+        "Energia consumata": 29.0,
+        "Stato": "Funzionante",
+        "quartiere_ID": "Santo Stefano"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          11.338228518435807,
+          44.44564442290276
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "id": "66",
+        "Tipo": "Stradale",
+        "Intensit\u00e0 luminosa": 671,
+        "Tecnologia": "Bioluminescenza + LED",
+        "Energia consumata": 13.48,
+        "Stato": "Funzionante",
+        "quartiere_ID": "Santo Stefano"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          11.330628750233968,
+          44.43678980881712
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "id": "67",
+        "Tipo": "Decorativo",
+        "Intensit\u00e0 luminosa": 731,
+        "Tecnologia": "Bioluminescenza + LED",
+        "Energia consumata": 43.36,
+        "Stato": "Funzionante",
+        "quartiere_ID": "Santo Stefano"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          11.330744839617292,
+          44.48735343931285
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "id": "68",
+        "Tipo": "Stradale",
+        "Intensit\u00e0 luminosa": 567,
+        "Tecnologia": "Bioluminescenza + LED",
+        "Energia consumata": 35.87,
+        "Stato": "Funzionante",
+        "quartiere_ID": "Santo Stefano"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          11.32396048631429,
+          44.43333606931422
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "id": "69",
+        "Tipo": "Stradale",
+        "Intensit\u00e0 luminosa": 400,
+        "Tecnologia": "LED",
+        "Energia consumata": 26.79,
+        "Stato": "Funzionante",
+        "quartiere_ID": "Santo Stefano"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          11.284004424787904,
+          44.43146718504026
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "id": "70",
+        "Tipo": "Decorativo",
+        "Intensit\u00e0 luminosa": 173,
+        "Tecnologia": "LED",
+        "Energia consumata": 41.3,
+        "Stato": "Funzionante",
+        "quartiere_ID": "Santo Stefano"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          11.3316179237226,
+          44.42780439786424
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "id": "71",
+        "Tipo": "Decorativo",
+        "Intensit\u00e0 luminosa": 985,
+        "Tecnologia": "LED",
+        "Energia consumata": 26.18,
+        "Stato": "Funzionante",
+        "quartiere_ID": "Santo Stefano"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          11.320054999341206,
+          44.44856826787651
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "id": "72",
+        "Tipo": "Decorativo",
+        "Intensit\u00e0 luminosa": 608,
+        "Tecnologia": "Bioluminescenza + LED",
+        "Energia consumata": 24.3,
+        "Stato": "Funzionante",
+        "quartiere_ID": "Santo Stefano"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          11.335798579355673,
+          44.48057718429982
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "id": "73",
+        "Tipo": "Decorativo",
+        "Intensit\u00e0 luminosa": 967,
+        "Tecnologia": "Bioluminescenza + LED",
+        "Energia consumata": 48.66,
+        "Stato": "Funzionante",
+        "quartiere_ID": "Santo Stefano"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          11.322073530918948,
+          44.422725142668234
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "id": "74",
+        "Tipo": "Decorativo",
+        "Intensit\u00e0 luminosa": 789,
+        "Tecnologia": "LED",
+        "Energia consumata": 48.49,
+        "Stato": "Funzionante",
+        "quartiere_ID": "Santo Stefano"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          11.326931217428468,
+          44.463295208660995
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "id": "75",
+        "Tipo": "Decorativo",
+        "Intensit\u00e0 luminosa": 704,
+        "Tecnologia": "Bioluminescenza + LED",
+        "Energia consumata": 15.55,
+        "Stato": "Funzionante",
+        "quartiere_ID": "Santo Stefano"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          11.340086516800032,
+          44.488605408510246
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "id": "76",
+        "Tipo": "Stradale",
+        "Intensit\u00e0 luminosa": 297,
+        "Tecnologia": "LED",
+        "Energia consumata": 34.83,
+        "Stato": "Funzionante",
+        "quartiere_ID": "Santo Stefano"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          11.311142352750808,
+          44.42468848364576
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "id": "77",
+        "Tipo": "Stradale",
+        "Intensit\u00e0 luminosa": 884,
+        "Tecnologia": "Bioluminescenza + LED",
+        "Energia consumata": 30.31,
+        "Stato": "Funzionante",
+        "quartiere_ID": "Santo Stefano"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          11.349468380879875,
+          44.48012521999163
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "id": "78",
+        "Tipo": "Decorativo",
+        "Intensit\u00e0 luminosa": 0,
+        "Tecnologia": "LED",
+        "Energia consumata": 0,
+        "Stato": "Guasto",
+        "quartiere_ID": "Santo Stefano"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          11.310179390096899,
+          44.42749319063828
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "id": "79",
+        "Tipo": "Decorativo",
+        "Intensit\u00e0 luminosa": 574,
+        "Tecnologia": "Bioluminescenza",
+        "Energia consumata": 40.86,
+        "Stato": "Funzionante",
+        "quartiere_ID": "Santo Stefano"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          11.302762887522803,
+          44.446994382598554
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "id": "80",
+        "Tipo": "Decorativo",
+        "Intensit\u00e0 luminosa": 398,
+        "Tecnologia": "Bioluminescenza",
+        "Energia consumata": 14.49,
+        "Stato": "Funzionante",
+        "quartiere_ID": "Santo Stefano"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          11.314721245740797,
+          44.47053756065534
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "id": "81",
+        "Tipo": "Decorativo",
+        "Intensit\u00e0 luminosa": 259,
+        "Tecnologia": "Bioluminescenza + LED",
+        "Energia consumata": 35.04,
+        "Stato": "Funzionante",
+        "quartiere_ID": "Savena"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          11.386162623929076,
+          44.467931295717634
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "id": "82",
+        "Tipo": "Decorativo",
+        "Intensit\u00e0 luminosa": 849,
+        "Tecnologia": "Bioluminescenza + LED",
+        "Energia consumata": 36.05,
+        "Stato": "Funzionante",
+        "quartiere_ID": "Savena"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          11.384933475575611,
+          44.47872009393201
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "id": "83",
+        "Tipo": "Stradale",
+        "Intensit\u00e0 luminosa": 283,
+        "Tecnologia": "LED",
+        "Energia consumata": 18.67,
+        "Stato": "Funzionante",
+        "quartiere_ID": "Savena"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          11.402351875399132,
+          44.476556237168765
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "id": "84",
+        "Tipo": "Stradale",
+        "Intensit\u00e0 luminosa": 666,
+        "Tecnologia": "Bioluminescenza + LED",
+        "Energia consumata": 22.24,
+        "Stato": "Funzionante",
+        "quartiere_ID": "Savena"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          11.392920317744696,
+          44.470941729352646
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "id": "85",
+        "Tipo": "Stradale",
+        "Intensit\u00e0 luminosa": 565,
+        "Tecnologia": "Bioluminescenza + LED",
+        "Energia consumata": 38.03,
+        "Stato": "Funzionante",
+        "quartiere_ID": "Savena"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          11.363178306873609,
+          44.45076443990415
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "id": "86",
+        "Tipo": "Decorativo",
+        "Intensit\u00e0 luminosa": 873,
+        "Tecnologia": "LED",
+        "Energia consumata": 26.09,
+        "Stato": "Funzionante",
+        "quartiere_ID": "Savena"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          11.389964235130051,
+          44.4870932090227
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "id": "87",
+        "Tipo": "Decorativo",
+        "Intensit\u00e0 luminosa": 143,
+        "Tecnologia": "Bioluminescenza + LED",
+        "Energia consumata": 15.35,
+        "Stato": "Funzionante",
+        "quartiere_ID": "Savena"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          11.36928260635854,
+          44.45006150992569
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "id": "88",
+        "Tipo": "Stradale",
+        "Intensit\u00e0 luminosa": 651,
+        "Tecnologia": "LED",
+        "Energia consumata": 33.99,
+        "Stato": "Funzionante",
+        "quartiere_ID": "Savena"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          11.35695910123882,
+          44.45606938544901
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "id": "89",
+        "Tipo": "Decorativo",
+        "Intensit\u00e0 luminosa": 0,
+        "Tecnologia": "Bioluminescenza + LED",
+        "Energia consumata": 0,
+        "Stato": "Guasto",
+        "quartiere_ID": "Savena"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          11.37850790458723,
+          44.47083069758899
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "id": "90",
+        "Tipo": "Stradale",
+        "Intensit\u00e0 luminosa": 871,
+        "Tecnologia": "Bioluminescenza + LED",
+        "Energia consumata": 19.48,
+        "Stato": "Funzionante",
+        "quartiere_ID": "Savena"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          11.379743401278462,
+          44.466919113136555
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "id": "91",
+        "Tipo": "Decorativo",
+        "Intensit\u00e0 luminosa": 710,
+        "Tecnologia": "Bioluminescenza + LED",
+        "Energia consumata": 48.68,
+        "Stato": "Funzionante",
+        "quartiere_ID": "Savena"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          11.367889088943764,
+          44.45168537970798
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "id": "92",
+        "Tipo": "Stradale",
+        "Intensit\u00e0 luminosa": 991,
+        "Tecnologia": "LED",
+        "Energia consumata": 40.95,
+        "Stato": "Funzionante",
+        "quartiere_ID": "Savena"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          11.405492156649004,
+          44.480746385191736
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "id": "93",
+        "Tipo": "Decorativo",
+        "Intensit\u00e0 luminosa": 425,
+        "Tecnologia": "Bioluminescenza + LED",
+        "Energia consumata": 13.56,
+        "Stato": "Funzionante",
+        "quartiere_ID": "Savena"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          11.352868817216363,
+          44.453393005598286
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "id": "94",
+        "Tipo": "Decorativo",
+        "Intensit\u00e0 luminosa": 160,
+        "Tecnologia": "Bioluminescenza + LED",
+        "Energia consumata": 21.97,
+        "Stato": "Funzionante",
+        "quartiere_ID": "Savena"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          11.373781588232468,
+          44.45428984912491
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "id": "95",
+        "Tipo": "Decorativo",
+        "Intensit\u00e0 luminosa": 731,
+        "Tecnologia": "Bioluminescenza + LED",
+        "Energia consumata": 10.3,
+        "Stato": "Funzionante",
+        "quartiere_ID": "Savena"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          11.402313093185843,
+          44.47386093400449
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "id": "96",
+        "Tipo": "Decorativo",
+        "Intensit\u00e0 luminosa": 373,
+        "Tecnologia": "Bioluminescenza",
+        "Energia consumata": 17.3,
+        "Stato": "Funzionante",
+        "quartiere_ID": "Savena"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          11.360324376449297,
+          44.46707097968771
+        ]
+      }
+    }
+  ]
+}
